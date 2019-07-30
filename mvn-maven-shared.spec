@@ -4,7 +4,7 @@
 #
 Name     : mvn-maven-shared
 Version  : 1.0
-Release  : 5
+Release  : 6
 URL      : https://repo1.maven.org/maven2/org/apache/maven/shared/maven-artifact-resolver/1.0/maven-artifact-resolver-1.0.jar
 Source0  : https://repo1.maven.org/maven2/org/apache/maven/shared/maven-artifact-resolver/1.0/maven-artifact-resolver-1.0.jar
 Source1  : https://repo1.maven.org/maven2/org/apache/maven/shared/maven-artifact-resolver/1.0/maven-artifact-resolver-1.0.pom
